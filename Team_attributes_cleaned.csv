@@ -1,0 +1,1459 @@
+id,team_fifa_api_id,team_api_id,date,buildUpPlaySpeedClass,buildUpPlayDribblingClass,buildUpPlayPassingClass,buildUpPlayPositioningClass,chanceCreationPassingClass,chanceCreationCrossingClass,chanceCreationShootingClass,chanceCreationPositioningClass,defencePressureClass,defenceAggressionClass,defenceTeamWidthClass,defenceDefenderLineClass
+1,434,9930,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+2,434,9930,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+3,434,9930,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+4,77,8485,2/22/2010 0:00,Fast,Little,Long,Organised,Risky,Lots,Lots,Organised,Medium,Double,Wide,Cover
+5,77,8485,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+6,77,8485,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+7,77,8485,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+8,77,8485,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+9,77,8485,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Free Form,Medium,Press,Normal,Cover
+10,614,8576,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Double,Narrow,Offside Trap
+11,614,8576,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+12,614,8576,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+13,614,8576,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+14,614,8576,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+15,614,8576,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+16,47,8564,2/22/2010 0:00,Balanced,Little,Short,Free Form,Normal,Normal,Lots,Free Form,Deep,Press,Normal,Offside Trap
+17,47,8564,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Offside Trap
+18,47,8564,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Little,Normal,Free Form,Medium,Press,Normal,Cover
+19,47,8564,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+20,47,8564,9/19/2014 0:00,Balanced,Lots,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+21,47,8564,9/10/2015 0:00,Balanced,Lots,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+22,1901,10215,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Narrow,Offside Trap
+23,1901,10215,2/22/2011 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+24,1901,10215,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+25,1901,10215,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+26,1901,10215,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+27,1901,10215,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+28,650,10217,2/22/2010 0:00,Slow,Little,Mixed,Organised,Safe,Normal,Normal,Organised,Deep,Contain,Narrow,Cover
+29,650,10217,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+30,650,10217,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+31,650,10217,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+32,650,10217,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+33,650,10217,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+34,245,8593,2/22/2010 0:00,Slow,Little,Short,Free Form,Normal,Normal,Lots,Organised,Deep,Contain,Narrow,Cover
+35,245,8593,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Risky,Normal,Lots,Organised,Medium,Press,Normal,Cover
+36,245,8593,2/22/2012 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Free Form,High,Press,Normal,Cover
+37,245,8593,9/20/2013 0:00,Balanced,Little,Short,Free Form,Normal,Normal,Normal,Free Form,High,Press,Normal,Cover
+38,245,8593,9/19/2014 0:00,Balanced,Normal,Short,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+39,245,8593,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Little,Free Form,Medium,Press,Normal,Cover
+40,1861,9865,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,High,Press,Narrow,Cover
+41,1861,9865,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Double,Wide,Cover
+42,1861,9865,2/22/2012 0:00,Balanced,Little,Long,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+43,1861,9865,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+44,1861,9865,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+45,1861,9865,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+46,229,8635,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,High,Press,Wide,Cover
+47,229,8635,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Risky,Normal,Normal,Organised,High,Press,Wide,Offside Trap
+48,229,8635,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+49,229,8635,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Risky,Lots,Normal,Organised,Medium,Press,Normal,Cover
+50,229,8635,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+51,229,8635,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+52,1530,8121,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Narrow,Offside Trap
+53,1530,8121,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+54,1530,8121,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+55,1530,8121,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+56,1530,8121,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+57,1530,8121,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+58,111082,8322,2/22/2010 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Double,Wide,Cover
+59,111082,8322,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Safe,Normal,Normal,Organised,Medium,Press,Normal,Cover
+60,111989,108893,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Safe,Normal,Little,Organised,Deep,Press,Normal,Cover
+61,111989,108893,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+62,111989,108893,2/22/2012 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Organised,Medium,Contain,Normal,Cover
+63,111989,108893,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+64,111989,108893,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+65,111989,108893,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+66,159,9912,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+67,159,9912,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Little,Normal,Organised,Medium,Press,Normal,Cover
+68,159,9912,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+69,112513,158085,9/19/2014 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+70,112513,158085,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+71,1,9825,2/22/2010 0:00,Balanced,Little,Short,Free Form,Safe,Normal,Normal,Free Form,Deep,Press,Normal,Cover
+72,1,9825,2/22/2011 0:00,Fast,Little,Mixed,Free Form,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+73,1,9825,2/22/2012 0:00,Slow,Little,Short,Organised,Normal,Normal,Little,Free Form,Medium,Press,Normal,Cover
+74,1,9825,9/20/2013 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+75,1,9825,9/19/2014 0:00,Balanced,Normal,Short,Organised,Safe,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+76,1,9825,9/10/2015 0:00,Balanced,Normal,Short,Organised,Safe,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+77,2,10252,2/22/2010 0:00,Fast,Little,Mixed,Organised,Normal,Lots,Normal,Free Form,Deep,Double,Narrow,Cover
+78,2,10252,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+79,2,10252,2/22/2012 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+80,2,10252,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+81,2,10252,9/19/2014 0:00,Balanced,Little,Long,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+82,2,10252,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+83,39,8524,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Little,Normal,Organised,Deep,Contain,Normal,Offside Trap
+84,39,8524,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+85,39,8524,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+86,39,8524,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+87,39,8524,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+88,39,8524,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+89,448,8315,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Deep,Double,Normal,Cover
+90,448,8315,2/22/2011 0:00,Fast,Little,Long,Organised,Normal,Lots,Normal,Organised,Medium,Double,Normal,Cover
+91,448,8315,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Wide,Cover
+92,448,8315,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Free Form,Medium,Press,Wide,Cover
+93,448,8315,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+94,448,8315,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+95,240,9906,2/22/2010 0:00,Balanced,Little,Short,Free Form,Normal,Normal,Lots,Free Form,High,Press,Normal,Offside Trap
+96,240,9906,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Lots,Organised,Medium,Press,Normal,Cover
+97,240,9906,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+98,240,9906,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+99,240,9906,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Risky,Lots,Normal,Organised,Medium,Press,Normal,Cover
+100,240,9906,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+101,100409,8406,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Lots,Organised,Medium,Press,Normal,Cover
+102,100409,8406,2/22/2011 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+103,100409,8406,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+104,100409,8406,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Deep,Press,Normal,Cover
+105,100409,8406,9/19/2014 0:00,Balanced,Normal,Long,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+106,100409,8406,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+107,57,8583,2/22/2010 0:00,Slow,Little,Long,Organised,Normal,Normal,Normal,Organised,Deep,Press,Narrow,Cover
+108,57,8583,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+109,57,8583,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+110,57,8583,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+111,57,8583,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+112,57,8583,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+113,1906,10229,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Little,Normal,Organised,Deep,Contain,Normal,Cover
+114,1906,10229,2/22/2011 0:00,Balanced,Little,Short,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+115,1906,10229,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+116,1906,10229,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+117,1906,10229,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+118,1906,10229,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+119,241,8634,2/22/2010 0:00,Balanced,Little,Short,Free Form,Normal,Normal,Lots,Free Form,High,Contain,Wide,Offside Trap
+120,241,8634,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Normal,Little,Lots,Free Form,High,Press,Wide,Cover
+121,241,8634,2/22/2012 0:00,Slow,Little,Short,Free Form,Normal,Little,Normal,Free Form,Medium,Press,Normal,Cover
+122,241,8634,9/20/2013 0:00,Balanced,Little,Short,Free Form,Normal,Little,Normal,Free Form,Medium,Press,Normal,Cover
+123,241,8634,9/19/2014 0:00,Balanced,Normal,Short,Free Form,Normal,Little,Normal,Free Form,Medium,Press,Normal,Cover
+124,241,8634,9/10/2015 0:00,Balanced,Normal,Mixed,Free Form,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+125,1848,9976,2/22/2010 0:00,Slow,Little,Short,Free Form,Safe,Normal,Normal,Organised,Medium,Contain,Normal,Offside Trap
+126,1848,9976,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+127,1848,9976,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+128,1848,9976,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+129,1848,9976,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+130,1848,9976,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+131,896,9931,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+132,896,9931,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+133,896,9931,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+134,896,9931,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+135,896,9931,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+136,896,9931,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+137,32,8178,2/22/2010 0:00,Fast,Little,Short,Organised,Risky,Lots,Lots,Organised,High,Press,Wide,Cover
+138,32,8178,2/22/2011 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+139,32,8178,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+140,32,8178,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+141,32,8178,9/19/2014 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+142,32,8178,9/10/2015 0:00,Fast,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Double,Normal,Cover
+143,21,9823,2/22/2010 0:00,Balanced,Little,Mixed,Free Form,Normal,Lots,Lots,Free Form,High,Press,Normal,Cover
+144,21,9823,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Little,Lots,Free Form,Medium,Press,Normal,Cover
+145,21,9823,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Little,Normal,Organised,Medium,Press,Normal,Cover
+146,21,9823,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+147,21,9823,9/19/2014 0:00,Balanced,Normal,Short,Free Form,Safe,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+148,21,9823,9/10/2015 0:00,Balanced,Little,Short,Free Form,Normal,Little,Little,Free Form,High,Press,Normal,Cover
+149,675,9993,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,High,Double,Wide,Cover
+150,675,9993,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Deep,Press,Normal,Offside Trap
+151,675,9993,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+152,675,9993,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+153,1897,10211,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+154,1897,10211,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+155,1897,10211,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+156,1889,9807,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Narrow,Offside Trap
+157,1889,9807,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+158,1889,9807,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+159,1714,6493,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+160,1714,6493,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+161,234,9772,2/22/2010 0:00,Slow,Little,Short,Free Form,Normal,Normal,Normal,Free Form,Deep,Contain,Narrow,Offside Trap
+162,234,9772,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+163,234,9772,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+164,234,9772,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+165,234,9772,9/19/2014 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+166,234,9772,9/10/2015 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+167,88,8658,2/22/2010 0:00,Fast,Little,Long,Organised,Risky,Lots,Lots,Organised,High,Double,Wide,Cover
+168,88,8658,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+169,88,8658,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+170,88,8658,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+171,88,8658,9/19/2014 0:00,Balanced,Normal,Long,Organised,Risky,Lots,Normal,Organised,Medium,Press,Normal,Cover
+172,88,8658,9/10/2015 0:00,Balanced,Little,Long,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+173,3,8655,2/22/2010 0:00,Balanced,Little,Long,Organised,Normal,Lots,Normal,Organised,Medium,Double,Normal,Cover
+174,3,8655,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+175,3,8655,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+176,3,8655,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+177,3,8655,9/19/2014 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+178,3,8655,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+179,1926,8483,2/22/2010 0:00,Fast,Little,Long,Organised,Risky,Lots,Normal,Organised,High,Double,Wide,Cover
+180,1926,8483,2/22/2011 0:00,Fast,Little,Short,Organised,Normal,Little,Normal,Organised,Medium,Press,Normal,Cover
+181,1926,8483,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+182,1926,8483,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+183,1926,8483,9/19/2014 0:00,Fast,Normal,Long,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+184,1926,8483,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+185,1898,8613,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+186,160,9911,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+187,160,9911,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+188,160,9911,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+189,160,9911,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+190,160,9911,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+191,160,9911,9/10/2015 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+192,189,9857,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Safe,Lots,Normal,Organised,Medium,Contain,Normal,Offside Trap
+193,189,9857,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+194,189,9857,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+195,189,9857,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+196,189,9857,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Safe,Normal,Normal,Organised,Deep,Press,Normal,Cover
+197,189,9857,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Safe,Normal,Normal,Organised,Deep,Press,Normal,Cover
+198,4,8559,2/22/2010 0:00,Balanced,Little,Long,Organised,Risky,Lots,Normal,Organised,Medium,Double,Normal,Cover
+199,4,8559,2/22/2011 0:00,Balanced,Little,Long,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+200,4,8559,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+201,4,8559,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+202,4,8559,9/19/2014 0:00,Balanced,Normal,Long,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+203,4,8559,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+204,59,9827,2/22/2010 0:00,Fast,Little,Mixed,Organised,Risky,Normal,Lots,Organised,Medium,Double,Wide,Offside Trap
+205,59,9827,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+206,59,9827,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+207,59,9827,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+208,59,9827,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Contain,Normal,Cover
+209,59,9827,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+210,22,9789,2/22/2010 0:00,Fast,Little,Mixed,Organised,Risky,Normal,Normal,Free Form,Medium,Double,Normal,Offside Trap
+211,22,9789,2/22/2011 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Double,Normal,Cover
+212,22,9789,2/22/2012 0:00,Fast,Little,Mixed,Organised,Risky,Normal,Lots,Free Form,Medium,Double,Normal,Cover
+213,22,9789,9/20/2013 0:00,Fast,Little,Mixed,Organised,Risky,Normal,Lots,Organised,Medium,Double,Normal,Cover
+214,22,9789,9/19/2014 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Lots,Free Form,Medium,Double,Normal,Cover
+215,22,9789,9/10/2015 0:00,Fast,Normal,Mixed,Organised,Risky,Normal,Normal,Free Form,Medium,Double,Normal,Cover
+216,23,9788,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+217,23,9788,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+218,23,9788,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+219,23,9788,9/20/2013 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Little,Free Form,Deep,Press,Normal,Cover
+220,23,9788,9/19/2014 0:00,Slow,Normal,Short,Organised,Normal,Little,Normal,Free Form,Medium,Press,Normal,Cover
+221,23,9788,9/10/2015 0:00,Slow,Normal,Short,Organised,Normal,Little,Normal,Free Form,Medium,Press,Normal,Cover
+222,111376,4170,2/22/2010 0:00,Balanced,Little,Short,Organised,Normal,Normal,Normal,Organised,High,Press,Wide,Offside Trap
+223,111376,4170,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+224,111376,4170,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+225,1943,8678,2/22/2010 0:00,Fast,Little,Long,Organised,Risky,Lots,Normal,Organised,High,Double,Wide,Cover
+226,1943,8678,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Risky,Little,Normal,Organised,Deep,Press,Normal,Cover
+227,1943,8678,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+228,1943,8678,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+229,1943,8678,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+230,1943,8678,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+231,1896,10264,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Narrow,Cover
+232,1896,10264,2/22/2011 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+233,1896,10264,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+234,1896,10264,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+235,1896,10264,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+236,1896,10264,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+237,190,9858,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Lots,Free Form,Medium,Contain,Normal,Offside Trap
+238,190,9858,2/22/2011 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+239,190,9858,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Little,Normal,Organised,Medium,Press,Normal,Cover
+240,190,9858,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Little,Lots,Free Form,Medium,Press,Normal,Cover
+241,190,9858,9/19/2014 0:00,Balanced,Normal,Short,Organised,Normal,Little,Lots,Organised,Medium,Press,Normal,Cover
+242,190,9858,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+243,378,8521,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Safe,Normal,Normal,Organised,High,Double,Wide,Cover
+244,378,8521,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+245,378,8521,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+246,378,8521,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+247,378,8521,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+248,378,8521,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+249,1796,8191,2/22/2010 0:00,Fast,Little,Mixed,Organised,Risky,Lots,Lots,Organised,Medium,Double,Wide,Cover
+250,1796,8191,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Deep,Press,Normal,Cover
+251,1796,8191,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+252,1796,8191,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+253,1796,8191,9/19/2014 0:00,Balanced,Little,Long,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+254,1796,8191,9/10/2015 0:00,Balanced,Little,Long,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+255,210,7819,2/22/2010 0:00,Balanced,Little,Short,Organised,Normal,Normal,Normal,Organised,High,Press,Wide,Cover
+256,210,7819,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+257,210,7819,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+258,210,7819,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+259,210,7819,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+260,210,7819,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+261,1842,8529,2/22/2010 0:00,Balanced,Little,Short,Organised,Safe,Normal,Normal,Organised,Medium,Press,Normal,Cover
+262,1842,8529,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+263,1842,8529,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+264,1842,8529,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+265,1842,8529,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Safe,Normal,Lots,Organised,Medium,Press,Normal,Cover
+266,1842,8529,9/10/2015 0:00,Fast,Little,Mixed,Organised,Risky,Normal,Lots,Free Form,Medium,Press,Normal,Offside Trap
+267,647,7788,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+268,647,7788,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+269,1961,8344,2/22/2010 0:00,Balanced,Little,Long,Organised,Risky,Lots,Lots,Organised,High,Double,Wide,Cover
+270,1961,8344,2/22/2011 0:00,Fast,Little,Mixed,Organised,Risky,Lots,Normal,Organised,Medium,Press,Normal,Cover
+271,1961,8344,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+272,1961,8344,9/20/2013 0:00,Balanced,Little,Long,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+273,1961,8344,9/19/2014 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+274,1961,8344,9/10/2015 0:00,Balanced,Normal,Long,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+275,112409,208931,9/19/2014 0:00,Slow,Normal,Short,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+276,112409,208931,9/10/2015 0:00,Fast,Normal,Mixed,Organised,Risky,Normal,Normal,Organised,Deep,Press,Normal,Cover
+277,110364,8530,2/22/2010 0:00,Balanced,Little,Short,Organised,Safe,Little,Normal,Organised,Medium,Press,Normal,Cover
+278,110364,8530,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+279,110364,8530,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+280,110364,8530,9/20/2013 0:00,Fast,Little,Mixed,Free Form,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+281,110364,8530,9/19/2014 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Double,Normal,Cover
+282,110364,8530,9/10/2015 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+283,450,9910,2/22/2010 0:00,Balanced,Little,Short,Organised,Normal,Normal,Lots,Organised,Medium,Contain,Normal,Offside Trap
+284,450,9910,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+285,450,9910,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Wide,Cover
+286,450,9910,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Free Form,Medium,Press,Wide,Cover
+287,450,9910,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+288,450,9910,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+289,78,9925,2/22/2010 0:00,Fast,Little,Long,Organised,Normal,Lots,Lots,Organised,Medium,Double,Wide,Cover
+290,78,9925,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Wide,Cover
+291,78,9925,2/22/2012 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+292,78,9925,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+293,78,9925,9/19/2014 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+294,78,9925,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+295,1750,9984,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Wide,Cover
+296,1750,9984,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Risky,Normal,Normal,Organised,Medium,Press,Wide,Cover
+297,1750,9984,2/22/2012 0:00,Fast,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+298,1750,9984,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Free Form,Medium,Press,Normal,Cover
+299,1750,9984,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+300,1750,9984,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+301,110915,9880,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Organised,Medium,Contain,Normal,Cover
+302,110915,9880,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+303,110915,9880,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+304,110915,9880,9/20/2013 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+305,110915,9880,9/19/2014 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+306,110915,9880,9/10/2015 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+307,5,8455,2/22/2010 0:00,Fast,Little,Mixed,Free Form,Normal,Lots,Lots,Free Form,Deep,Press,Normal,Cover
+308,5,8455,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Normal,Normal,Lots,Free Form,Medium,Press,Normal,Cover
+309,5,8455,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+310,5,8455,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+311,5,8455,9/19/2014 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+312,5,8455,9/10/2015 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+313,192,8533,2/22/2010 0:00,Balanced,Little,Short,Organised,Normal,Normal,Normal,Organised,Deep,Double,Normal,Offside Trap
+314,192,8533,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Double,Normal,Cover
+315,192,8533,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+316,192,8533,9/20/2013 0:00,Balanced,Little,Long,Organised,Normal,Normal,Normal,Free Form,Deep,Press,Normal,Cover
+317,192,8533,9/19/2014 0:00,Balanced,Normal,Long,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+318,192,8533,9/10/2015 0:00,Balanced,Normal,Long,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+319,231,8342,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Double,Wide,Cover
+320,231,8342,2/22/2011 0:00,Fast,Little,Mixed,Free Form,Risky,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+321,231,8342,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+322,231,8342,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+323,231,8342,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+324,231,8342,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+325,1867,7869,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Organised,Medium,Contain,Normal,Cover
+326,1867,7869,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+327,1867,7869,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+328,1867,7869,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+329,1867,7869,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+330,1867,7869,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+331,110747,2186,2/22/2010 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Normal,Organised,High,Double,Normal,Cover
+332,110747,2186,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Contain,Normal,Cover
+333,110747,2186,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Little,Lots,Organised,Medium,Press,Normal,Cover
+334,110747,2186,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+335,110747,2186,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+336,1799,9826,2/22/2010 0:00,Fast,Little,Long,Organised,Risky,Lots,Normal,Organised,Medium,Press,Normal,Cover
+337,1799,9826,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Narrow,Cover
+338,1799,9826,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Contain,Normal,Cover
+339,1799,9826,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Contain,Normal,Cover
+340,1799,9826,9/19/2014 0:00,Balanced,Normal,Long,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+341,1799,9826,9/10/2015 0:00,Balanced,Normal,Long,Organised,Risky,Lots,Normal,Organised,Medium,Press,Normal,Cover
+342,110502,8262,9/10/2015 0:00,Balanced,Normal,Long,Organised,Normal,Lots,Normal,Organised,Deep,Press,Normal,Cover
+343,635,8526,2/22/2011 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+344,635,8526,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+345,242,9783,2/22/2010 0:00,Slow,Little,Short,Organised,Safe,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+346,242,9783,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Wide,Cover
+347,242,9783,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+348,242,9783,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+349,242,9783,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+350,242,9783,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+351,110569,9836,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Narrow,Offside Trap
+352,110569,9836,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+353,110569,9836,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+354,110569,9836,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+355,110569,9836,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+356,110569,9836,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+357,180,8284,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+358,180,8284,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Safe,Normal,Normal,Organised,Medium,Press,Normal,Cover
+359,181,9938,2/22/2010 0:00,Fast,Little,Long,Organised,Normal,Lots,Lots,Organised,Medium,Double,Wide,Cover
+360,181,9938,2/22/2011 0:00,Fast,Little,Mixed,Organised,Risky,Normal,Lots,Organised,Medium,Press,Normal,Cover
+361,181,9938,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+362,181,9938,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+363,181,9938,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+364,181,9938,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+365,182,8457,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+366,467,8372,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+367,467,8372,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+368,110500,9776,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+369,110500,9776,9/20/2013 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Lots,Free Form,Medium,Press,Normal,Cover
+370,110500,9776,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+371,110500,9776,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+372,1824,9810,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Contain,Normal,Cover
+373,1824,9810,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+374,1824,9810,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+375,1824,9810,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+376,1824,9810,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+377,1824,9810,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+378,468,10268,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+379,468,10268,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+380,468,10268,2/22/2012 0:00,Balanced,Little,Long,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+381,468,10268,9/20/2013 0:00,Balanced,Little,Long,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+382,468,10268,9/19/2014 0:00,Balanced,Normal,Long,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+383,468,10268,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+384,1746,8534,2/22/2010 0:00,Slow,Little,Short,Organised,Safe,Little,Normal,Organised,Deep,Contain,Narrow,Cover
+385,1746,8534,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+386,1746,8534,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+387,1746,8534,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+388,1746,8534,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+389,1746,8534,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+390,162,8398,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Safe,Normal,Normal,Organised,High,Double,Wide,Cover
+391,162,8398,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+392,162,8398,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+393,162,8398,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+394,162,8398,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+395,452,8558,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Lots,Organised,High,Press,Normal,Cover
+396,452,8558,2/22/2011 0:00,Fast,Little,Mixed,Organised,Risky,Lots,Normal,Organised,Medium,Press,Normal,Cover
+397,452,8558,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+398,452,8558,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+399,452,8558,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+400,452,8558,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+401,10020,7842,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+402,10020,7842,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+403,10020,7842,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+404,2013,6351,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+405,7,8668,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Double,Normal,Cover
+406,7,8668,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+407,7,8668,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+408,7,8668,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+409,7,8668,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+410,7,8668,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Little,Normal,Organised,Medium,Press,Normal,Cover
+411,111271,4087,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+412,111271,4087,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+413,111271,4087,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+414,111271,4087,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+415,111271,4087,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+416,1971,10218,2/22/2011 0:00,Fast,Little,Mixed,Organised,Risky,Little,Normal,Organised,Deep,Press,Narrow,Cover
+417,1971,10218,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Narrow,Cover
+418,1971,10218,9/10/2015 0:00,Balanced,Normal,Long,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+419,79,8596,2/22/2010 0:00,Fast,Little,Long,Organised,Normal,Lots,Lots,Organised,Medium,Double,Wide,Cover
+420,31,8722,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+421,31,8722,2/22/2011 0:00,Balanced,Little,Long,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+422,31,8722,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+423,31,8722,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+424,31,8722,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+425,31,8722,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+426,100626,6631,9/10/2015 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+427,1915,8674,2/22/2010 0:00,Balanced,Little,Short,Organised,Normal,Normal,Lots,Organised,Deep,Contain,Narrow,Cover
+428,1915,8674,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+429,1915,8674,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+430,1915,8674,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+431,1915,8674,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+432,1915,8674,9/10/2015 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+433,236,9773,2/22/2010 0:00,Slow,Little,Short,Free Form,Normal,Normal,Normal,Free Form,Deep,Contain,Narrow,Offside Trap
+434,236,9773,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+435,236,9773,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Lots,Organised,Medium,Press,Normal,Cover
+436,236,9773,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Lots,Organised,Medium,Press,Normal,Cover
+437,236,9773,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+438,236,9773,9/10/2015 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+439,1903,9908,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Safe,Normal,Lots,Organised,Deep,Contain,Narrow,Cover
+440,1903,9908,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Lots,Organised,Medium,Press,Normal,Offside Trap
+441,1903,9908,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+442,1903,9908,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+443,1903,9908,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+444,1903,9908,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+445,286,9824,9/10/2015 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Contain,Normal,Cover
+446,894,10243,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Offside Trap
+447,894,10243,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+448,894,10243,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+449,894,10243,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+450,894,10243,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+451,894,10243,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+452,246,10235,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Narrow,Cover
+453,246,10235,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Normal,Little,Little,Organised,Medium,Press,Normal,Cover
+454,246,10235,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+455,246,10235,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+456,246,10235,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+457,246,10235,9/10/2015 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Little,Organised,Medium,Press,Normal,Cover
+458,110374,8535,2/22/2010 0:00,Fast,Little,Short,Free Form,Normal,Normal,Normal,Free Form,Medium,Contain,Normal,Offside Trap
+459,110374,8535,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+460,110374,8535,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+461,110374,8535,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+462,110374,8535,9/19/2014 0:00,Balanced,Normal,Short,Organised,Risky,Normal,Normal,Organised,Medium,Press,Wide,Cover
+463,110374,8535,9/10/2015 0:00,Balanced,Normal,Short,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+464,110636,8194,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Free Form,Medium,Double,Normal,Cover
+465,110636,8194,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+466,110636,8194,2/22/2012 0:00,Fast,Little,Mixed,Organised,Risky,Lots,Normal,Organised,Medium,Press,Normal,Cover
+467,110636,8194,9/20/2013 0:00,Balanced,Little,Long,Organised,Normal,Lots,Normal,Organised,Deep,Press,Normal,Cover
+468,110636,8194,9/19/2014 0:00,Fast,Lots,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+469,110636,8194,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+470,25,8358,2/22/2010 0:00,Balanced,Little,Short,Organised,Safe,Lots,Normal,Organised,Medium,Press,Normal,Cover
+471,25,8358,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+472,25,8358,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+473,25,8358,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+474,25,8358,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Little,Normal,Free Form,Medium,Press,Normal,Cover
+475,25,8358,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Narrow,Cover
+476,111657,9891,2/22/2010 0:00,Slow,Little,Short,Organised,Safe,Normal,Normal,Organised,Deep,Contain,Normal,Offside Trap
+477,111657,9891,2/22/2011 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Double,Normal,Offside Trap
+478,111657,9891,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+479,144,9879,2/22/2010 0:00,Balanced,Little,Long,Organised,Risky,Lots,Normal,Organised,Medium,Press,Normal,Cover
+480,144,9879,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+481,144,9879,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+482,144,9879,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+483,144,9879,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Normal,Cover
+484,144,9879,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Normal,Cover
+485,673,9987,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,High,Press,Wide,Cover
+486,673,9987,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+487,673,9987,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+488,673,9987,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+489,673,9987,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+490,673,9987,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Safe,Lots,Normal,Organised,Medium,Press,Wide,Cover
+491,110556,10233,2/22/2010 0:00,Fast,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Narrow,Cover
+492,110556,10233,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+493,110556,10233,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+494,110556,10233,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Offside Trap
+495,110556,10233,9/19/2014 0:00,Balanced,Normal,Long,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+496,110556,10233,9/10/2015 0:00,Balanced,Normal,Long,Organised,Normal,Normal,Little,Organised,Deep,Press,Normal,Cover
+497,674,9991,2/22/2010 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+498,674,9991,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+499,674,9991,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+500,674,9991,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Safe,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+501,674,9991,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Safe,Normal,Normal,Organised,Medium,Press,Normal,Cover
+502,674,9991,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+503,1860,8305,2/22/2010 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Lots,Free Form,Medium,Contain,Normal,Offside Trap
+504,1860,8305,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+505,1860,8305,2/22/2012 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+506,1860,8305,9/20/2013 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+507,1860,8305,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+508,1860,8305,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+509,110316,6391,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+510,110316,6391,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+511,1888,9764,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+512,1888,9764,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+513,1888,9764,9/19/2014 0:00,Balanced,Lots,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+514,1888,9764,9/10/2015 0:00,Fast,Lots,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+515,110744,8569,2/22/2010 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Double,Normal,Cover
+516,110744,8569,2/22/2011 0:00,Balanced,Little,Short,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+517,110744,8569,2/22/2012 0:00,Balanced,Little,Long,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+518,110744,8569,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+519,110744,8569,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+520,100632,6433,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+521,100632,6433,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+522,110565,8019,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+523,111429,8020,2/22/2010 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Double,Normal,Cover
+524,111429,8020,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Little,Normal,Organised,Medium,Press,Normal,Cover
+525,110832,7878,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+526,110832,7878,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Risky,Lots,Normal,Organised,Medium,Press,Wide,Cover
+527,110832,7878,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Risky,Lots,Normal,Organised,Medium,Press,Wide,Cover
+528,110832,7878,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Risky,Lots,Normal,Organised,Medium,Press,Normal,Cover
+529,110832,7878,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+530,322,9956,2/22/2010 0:00,Slow,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+531,322,9956,2/22/2011 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+532,322,9956,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+533,322,9956,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+534,322,9956,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+535,322,9956,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+536,1805,9855,2/22/2010 0:00,Fast,Little,Long,Organised,Normal,Normal,Lots,Organised,High,Press,Wide,Cover
+537,1805,9855,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+538,165,8357,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Safe,Lots,Lots,Organised,Medium,Press,Normal,Cover
+539,165,8357,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+540,165,8357,2/22/2012 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+541,165,8357,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Narrow,Cover
+542,165,8357,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+543,165,8357,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+544,62,9747,2/22/2010 0:00,Balanced,Little,Short,Organised,Normal,Normal,Lots,Organised,Deep,Press,Narrow,Offside Trap
+545,62,9747,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+546,62,9747,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+547,62,9747,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+548,62,9747,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+549,28,9790,2/22/2010 0:00,Fast,Little,Mixed,Organised,Risky,Normal,Lots,Organised,High,Press,Normal,Cover
+550,28,9790,2/22/2011 0:00,Balanced,Little,Short,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+551,28,9790,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+552,28,9790,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+553,28,9790,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Contain,Normal,Cover
+554,28,9790,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+555,184,8429,2/22/2010 0:00,Fast,Little,Long,Organised,Risky,Lots,Normal,Organised,Medium,Press,Wide,Cover
+556,184,8429,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+557,184,8429,9/10/2015 0:00,Balanced,Normal,Mixed,Free Form,Risky,Normal,Lots,Organised,Medium,Press,Normal,Cover
+558,485,9904,2/22/2010 0:00,Balanced,Little,Long,Organised,Normal,Normal,Normal,Organised,High,Double,Wide,Cover
+559,485,9904,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+560,485,9904,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+561,485,9904,9/20/2013 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+562,485,9904,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+563,485,9904,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+564,80,9860,2/22/2010 0:00,Fast,Little,Long,Organised,Risky,Lots,Lots,Organised,Medium,Double,Wide,Cover
+565,80,9860,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Double,Normal,Cover
+566,80,9860,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+567,80,9860,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+568,80,9860,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+569,100634,9791,2/22/2010 0:00,Slow,Little,Mixed,Organised,Safe,Normal,Normal,Organised,Deep,Contain,Narrow,Cover
+570,100634,9791,2/22/2011 0:00,Fast,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+571,100634,9791,2/22/2012 0:00,Balanced,Little,Short,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+572,100634,9791,9/20/2013 0:00,Balanced,Little,Short,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+573,100634,9791,9/19/2014 0:00,Balanced,Normal,Short,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+574,100634,9791,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+575,100879,10278,2/22/2010 0:00,Balanced,Little,Short,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+576,100879,10278,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+577,100879,10278,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+578,100879,10278,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+579,100879,10278,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+580,166,8177,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Contain,Normal,Cover
+581,166,8177,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+582,166,8177,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+583,166,8177,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+584,166,8177,9/19/2014 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+585,166,8177,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+586,81,10251,2/22/2010 0:00,Fast,Little,Long,Organised,Normal,Lots,Lots,Organised,Medium,Double,Wide,Cover
+587,81,10251,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+588,81,10251,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+589,81,10251,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+590,81,10251,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+591,10029,8226,2/22/2010 0:00,Fast,Little,Short,Organised,Risky,Normal,Normal,Organised,Medium,Double,Normal,Offside Trap
+592,10029,8226,2/22/2011 0:00,Fast,Little,Mixed,Organised,Risky,Normal,Lots,Free Form,High,Press,Normal,Cover
+593,10029,8226,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+594,10029,8226,9/20/2013 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+595,10029,8226,9/19/2014 0:00,Fast,Normal,Mixed,Organised,Risky,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+596,10029,8226,9/10/2015 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+597,1952,8667,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Risky,Lots,Normal,Organised,High,Double,Wide,Cover
+598,1952,8667,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+599,1952,8667,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+600,1952,8667,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+601,1952,8667,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+602,1952,8667,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+603,111239,8234,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+604,111239,8234,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+605,111239,8234,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+606,111239,8234,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Little,Normal,Organised,Medium,Press,Normal,Cover
+607,111239,8234,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+608,44,8636,2/22/2010 0:00,Balanced,Little,Mixed,Free Form,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+609,44,8636,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+610,44,8636,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+611,44,8636,9/20/2013 0:00,Fast,Little,Long,Organised,Risky,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+612,44,8636,9/19/2014 0:00,Fast,Normal,Long,Organised,Risky,Lots,Normal,Organised,Deep,Press,Normal,Cover
+613,44,8636,9/10/2015 0:00,Balanced,Lots,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+614,620,8066,2/22/2011 0:00,Balanced,Little,Long,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+615,620,8066,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+616,620,8066,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+617,620,8066,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+618,620,8066,9/10/2015 0:00,Balanced,Normal,Short,Organised,Normal,Normal,Lots,Free Form,Medium,Press,Normal,Cover
+619,110745,1957,2/22/2010 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Lots,Organised,High,Double,Wide,Cover
+620,110745,1957,2/22/2011 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+621,110745,1957,2/22/2012 0:00,Balanced,Little,Long,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+622,110745,1957,9/20/2013 0:00,Balanced,Little,Long,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+623,110745,1957,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Little,Normal,Organised,Medium,Press,Normal,Cover
+624,110745,1957,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Little,Normal,Organised,Medium,Press,Normal,Cover
+625,45,9885,2/22/2010 0:00,Balanced,Little,Mixed,Free Form,Normal,Normal,Lots,Free Form,Medium,Press,Wide,Offside Trap
+626,45,9885,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+627,45,9885,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+628,45,9885,9/20/2013 0:00,Balanced,Little,Short,Organised,Normal,Normal,Lots,Free Form,Medium,Double,Normal,Cover
+629,45,9885,9/19/2014 0:00,Slow,Normal,Short,Organised,Normal,Normal,Lots,Organised,Deep,Double,Normal,Cover
+630,45,9885,9/10/2015 0:00,Balanced,Normal,Short,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+631,29,8350,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Lots,Organised,High,Double,Wide,Cover
+632,29,8350,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+633,29,8350,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+634,29,8350,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+635,29,8350,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+636,29,8350,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+637,1832,8295,2/22/2010 0:00,Fast,Little,Mixed,Organised,Risky,Normal,Lots,Organised,Medium,Press,Normal,Cover
+638,1832,8295,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+639,1832,8295,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+640,1832,8295,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+641,1832,8295,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+642,82,8597,2/22/2010 0:00,Fast,Little,Long,Organised,Risky,Lots,Normal,Organised,Medium,Double,Wide,Cover
+643,82,8597,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+644,82,8597,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+645,82,8597,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+646,82,8597,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+647,82,8597,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+648,111083,8245,2/22/2010 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Double,Normal,Cover
+649,111083,8245,2/22/2011 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Wide,Cover
+650,111083,8245,2/22/2012 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+651,111083,8245,9/20/2013 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+652,111083,8245,9/19/2014 0:00,Fast,Lots,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+653,111083,8245,9/10/2015 0:00,Balanced,Lots,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+654,100081,8571,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+655,100081,8571,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+656,100081,8571,2/22/2012 0:00,Slow,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+657,100081,8571,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Little,Organised,Medium,Press,Normal,Cover
+658,100081,8571,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Lots,Little,Organised,Medium,Press,Normal,Cover
+659,100081,8571,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Lots,Little,Organised,Medium,Press,Normal,Cover
+660,110724,8203,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Double,Normal,Cover
+661,110724,8203,2/22/2011 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+662,110724,8203,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+663,110724,8203,9/20/2013 0:00,Balanced,Little,Short,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+664,110724,8203,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+665,110724,8203,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+666,472,8306,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Offside Trap
+667,472,8306,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Wide,Cover
+668,472,8306,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+669,472,8306,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+670,472,8306,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+671,472,8306,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+672,1862,7730,2/22/2010 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+673,1862,7730,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+674,1862,7730,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+675,1862,7730,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+676,46,8543,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Wide,Cover
+677,46,8543,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+678,46,8543,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+679,46,8543,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Lots,Free Form,Medium,Press,Normal,Cover
+680,46,8543,9/19/2014 0:00,Balanced,Lots,Mixed,Organised,Risky,Normal,Lots,Organised,Medium,Press,Normal,Cover
+681,46,8543,9/10/2015 0:00,Fast,Normal,Mixed,Organised,Risky,Lots,Lots,Free Form,Medium,Press,Normal,Cover
+682,1738,9746,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Double,Narrow,Cover
+683,1738,9746,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+684,1738,9746,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+685,1738,9746,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+686,1738,9746,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+687,1738,9746,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+688,1739,8682,2/22/2010 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,High,Press,Wide,Cover
+689,1739,8682,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+690,1739,8682,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+691,1739,8682,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+692,347,9888,2/22/2010 0:00,Balanced,Little,Short,Organised,Normal,Normal,Lots,Organised,Deep,Double,Normal,Cover
+693,347,9888,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+694,347,9888,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+695,873,2182,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+696,873,2182,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Lots,Organised,Medium,Press,Normal,Cover
+697,873,2182,2/22/2012 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+698,873,2182,9/20/2013 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+699,873,2182,9/19/2014 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+700,873,2182,9/10/2015 0:00,Balanced,Normal,Mixed,Free Form,Normal,Lots,Lots,Free Form,Medium,Press,Normal,Cover
+701,111091,8030,2/22/2010 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Lots,Organised,High,Double,Normal,Cover
+702,111091,8030,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Risky,Little,Normal,Organised,Medium,Press,Normal,Cover
+703,111091,8030,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+704,111091,8030,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+705,111091,8030,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+706,111091,8030,9/10/2015 0:00,Balanced,Normal,Mixed,Free Form,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+707,1871,8673,2/22/2010 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Double,Normal,Cover
+708,1871,8673,2/22/2011 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+709,1871,8673,2/22/2012 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+710,1871,8673,9/20/2013 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+711,1871,8673,9/19/2014 0:00,Balanced,Normal,Mixed,Free Form,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+712,1871,8673,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+713,95,8197,2/22/2010 0:00,Fast,Little,Long,Organised,Risky,Lots,Normal,Organised,High,Double,Wide,Cover
+714,95,8197,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+715,95,8197,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+716,95,8197,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+717,95,8197,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+718,95,8197,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+719,10018,6421,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Narrow,Cover
+720,64,8588,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Lots,Organised,High,Press,Wide,Offside Trap
+721,64,8588,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+722,64,8588,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+723,64,8588,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+724,64,8588,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+725,64,8588,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+726,1853,8581,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Lots,Organised,Deep,Press,Normal,Cover
+727,1853,8581,2/22/2011 0:00,Fast,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+728,1853,8581,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+729,1853,8581,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+730,1853,8581,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+731,1853,8581,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Contain,Normal,Cover
+732,239,9989,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+733,239,9989,2/22/2012 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+734,239,9989,9/20/2013 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+735,239,9989,9/19/2014 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+736,239,9989,9/10/2015 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+737,65,8639,2/22/2010 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Double,Normal,Cover
+738,65,8639,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+739,65,8639,2/22/2012 0:00,Balanced,Little,Short,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+740,65,8639,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+741,65,8639,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+742,65,8639,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+743,9,8650,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+744,9,8650,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+745,9,8650,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+746,9,8650,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+747,9,8650,9/19/2014 0:00,Fast,Normal,Short,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+748,9,8650,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+749,1844,8537,2/22/2010 0:00,Slow,Little,Short,Organised,Safe,Little,Normal,Organised,Deep,Contain,Narrow,Offside Trap
+750,1844,8537,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Safe,Normal,Normal,Organised,Medium,Press,Narrow,Cover
+751,1844,8537,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+752,1844,8537,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+753,1844,8537,9/19/2014 0:00,Balanced,Normal,Long,Organised,Normal,Little,Lots,Organised,Deep,Press,Narrow,Cover
+754,1844,8537,9/10/2015 0:00,Balanced,Normal,Long,Organised,Normal,Little,Lots,Organised,Deep,Press,Normal,Cover
+755,301,8244,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+756,301,8244,2/22/2012 0:00,Balanced,Little,Long,Organised,Risky,Normal,Normal,Organised,Deep,Contain,Normal,Cover
+757,301,8244,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+758,301,8244,9/19/2014 0:00,Balanced,Normal,Long,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+759,2007,9994,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+760,2007,9994,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+761,2007,9994,2/22/2012 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+762,2007,9994,9/20/2013 0:00,Fast,Little,Mixed,Organised,Safe,Normal,Normal,Organised,Medium,Press,Normal,Cover
+763,2007,9994,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+764,2007,9994,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+765,217,8689,2/22/2010 0:00,Balanced,Little,Long,Organised,Safe,Normal,Normal,Organised,High,Press,Wide,Offside Trap
+766,217,8689,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+767,217,8689,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+768,217,8689,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+769,217,8689,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+770,217,8689,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+771,897,10199,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Offside Trap
+772,897,10199,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+773,897,10199,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+774,897,10199,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+775,897,10199,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+776,897,10199,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+777,66,9748,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Lots,Organised,High,Press,Wide,Offside Trap
+778,66,9748,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+779,66,9748,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+780,66,9748,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+781,66,9748,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+782,66,9748,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+783,169,9905,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Lots,Organised,Medium,Double,Normal,Cover
+784,169,9905,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+785,169,9905,2/22/2012 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+786,169,9905,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+787,169,9905,9/19/2014 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+788,169,9905,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+789,573,9864,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+790,573,9864,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+791,573,9864,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Risky,Lots,Normal,Organised,Medium,Press,Normal,Cover
+792,573,9864,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Risky,Lots,Normal,Organised,Medium,Press,Normal,Cover
+793,573,9864,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Risky,Lots,Normal,Organised,Medium,Press,Normal,Cover
+794,573,9864,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+795,453,8661,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Offside Trap
+796,453,8661,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+797,453,8661,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+798,453,8661,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+799,453,8661,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+800,453,8661,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+801,10,8456,2/22/2010 0:00,Fast,Little,Mixed,Organised,Normal,Lots,Lots,Organised,Medium,Press,Normal,Cover
+802,10,8456,2/22/2011 0:00,Fast,Little,Mixed,Organised,Risky,Normal,Lots,Free Form,Medium,Press,Normal,Cover
+803,10,8456,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+804,10,8456,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+805,10,8456,9/19/2014 0:00,Balanced,Normal,Short,Organised,Safe,Normal,Normal,Organised,Medium,Press,Normal,Cover
+806,10,8456,9/10/2015 0:00,Balanced,Normal,Short,Free Form,Normal,Normal,Little,Free Form,Medium,Press,Normal,Cover
+807,11,10260,2/22/2010 0:00,Fast,Little,Mixed,Organised,Normal,Lots,Normal,Free Form,Medium,Press,Normal,Cover
+808,11,10260,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Free Form,Medium,Press,Normal,Cover
+809,11,10260,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+810,11,10260,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+811,11,10260,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+812,11,10260,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+813,1893,10212,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Narrow,Offside Trap
+814,1893,10212,2/22/2011 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+815,1893,10212,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+816,1893,10212,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+817,1893,10212,9/19/2014 0:00,Fast,Normal,Mixed,Free Form,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+818,1893,10212,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+819,219,8592,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Lots,Free Form,Medium,Double,Normal,Offside Trap
+820,219,8592,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Free Form,Medium,Press,Normal,Cover
+821,219,8592,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+822,219,8592,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+823,219,8592,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Lots,Lots,Organised,Medium,Press,Normal,Cover
+824,219,8592,9/10/2015 0:00,Balanced,Lots,Mixed,Organised,Normal,Lots,Little,Organised,Medium,Press,Normal,Cover
+825,68,8550,2/22/2010 0:00,Balanced,Little,Short,Organised,Normal,Normal,Normal,Organised,Deep,Press,Narrow,Offside Trap
+826,68,8550,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+827,68,8550,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+828,68,8550,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+829,68,8550,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+830,12,8549,2/22/2010 0:00,Fast,Little,Long,Organised,Risky,Lots,Normal,Organised,Deep,Double,Narrow,Cover
+831,12,8549,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+832,12,8549,2/22/2012 0:00,Balanced,Little,Long,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+833,12,8549,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+834,12,8549,9/19/2014 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+835,12,8549,9/10/2015 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+836,69,9829,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,High,Press,Wide,Cover
+837,69,9829,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+838,69,9829,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+839,69,9829,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+840,69,9829,9/19/2014 0:00,Balanced,Lots,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+841,69,9829,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+842,1747,9998,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+843,1747,9998,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+844,1747,9998,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+845,70,10249,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,High,Double,Wide,Offside Trap
+846,70,10249,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+847,70,10249,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+848,70,10249,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+849,70,10249,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+850,70,10249,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+851,1900,8348,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+852,1900,8348,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+853,83,9927,2/22/2010 0:00,Fast,Little,Long,Organised,Risky,Lots,Normal,Organised,Medium,Double,Wide,Cover
+854,83,9927,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+855,83,9927,2/22/2012 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+856,83,9927,9/20/2013 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+857,83,9927,9/19/2014 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+858,83,9927,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+859,111560,274581,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+860,111560,9996,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+861,111560,9996,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+862,1904,9761,2/22/2010 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Narrow,Cover
+863,1904,9761,2/22/2011 0:00,Slow,Little,Mixed,Free Form,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+864,1904,9761,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+865,1904,9761,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+866,1904,9761,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Safe,Normal,Normal,Organised,Medium,Press,Normal,Cover
+867,1904,9761,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Safe,Normal,Normal,Organised,Medium,Press,Normal,Cover
+868,1891,10214,2/22/2010 0:00,Balanced,Little,Short,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Narrow,Offside Trap
+869,1891,10214,2/22/2011 0:00,Balanced,Little,Short,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+870,1891,10214,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+871,1891,10214,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+872,1891,10214,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+873,1891,10214,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+874,1823,8481,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Little,Organised,High,Double,Wide,Cover
+875,1823,8481,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+876,1823,8481,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+877,1823,8481,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+878,1823,8481,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+879,1823,8481,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+880,71,9830,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Narrow,Cover
+881,71,9830,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+882,71,9830,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+883,71,9830,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+884,71,9830,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+885,71,9830,9/10/2015 0:00,Balanced,Lots,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+886,100737,9809,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Lots,Organised,Deep,Contain,Narrow,Cover
+887,100737,9809,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+888,1910,8464,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Narrow,Cover
+889,1910,8464,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Normal,Lots,Little,Organised,Deep,Press,Narrow,Cover
+890,1910,8464,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+891,1910,8464,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+892,1910,8464,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+893,13,10261,2/22/2010 0:00,Fast,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+894,13,10261,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+895,13,10261,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+896,13,10261,9/20/2013 0:00,Balanced,Little,Long,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+897,13,10261,9/19/2014 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+898,13,10261,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+899,72,9831,2/22/2010 0:00,Fast,Little,Long,Organised,Normal,Little,Normal,Organised,High,Double,Wide,Cover
+900,72,9831,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+901,72,9831,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+902,72,9831,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+903,72,9831,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+904,72,9831,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+905,1792,9850,2/22/2010 0:00,Balanced,Little,Long,Organised,Risky,Lots,Normal,Organised,Medium,Double,Wide,Cover
+906,1792,9850,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+907,1792,9850,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+908,1792,9850,9/20/2013 0:00,Fast,Little,Long,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+909,1792,9850,9/19/2014 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+910,1792,9850,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+911,112225,6269,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+912,112225,6269,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+913,112225,6269,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+914,112225,6269,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+915,171,8165,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Lots,Organised,Medium,Press,Normal,Cover
+916,171,8165,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+917,171,8165,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+918,171,8165,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+919,171,8165,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+920,171,8165,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+921,477,8388,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Offside Trap
+922,477,8388,2/22/2011 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+923,477,8388,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+924,477,8388,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+925,477,8388,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+926,477,8388,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+927,1564,8242,2/22/2010 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Lots,Organised,High,Double,Normal,Cover
+928,111540,2033,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+929,111540,2033,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+930,111540,2033,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Contain,Normal,Cover
+931,111540,2033,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Contain,Normal,Cover
+932,111540,2033,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Contain,Normal,Cover
+933,682,8573,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+934,682,8573,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+935,479,8371,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Deep,Press,Normal,Cover
+936,479,8371,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Lots,Free Form,Medium,Press,Wide,Cover
+937,479,8371,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+938,479,8371,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+939,479,8371,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+940,479,8371,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+941,100087,1773,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+942,100087,1773,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+943,100087,1773,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+944,1892,6403,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Narrow,Offside Trap
+945,1892,6403,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+946,1892,6403,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+947,1892,6403,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+948,1892,6403,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+949,1892,6403,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+950,10030,8460,2/22/2010 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Narrow,Cover
+951,10030,8460,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+952,10030,8460,2/22/2012 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Deep,Press,Normal,Cover
+953,10030,8460,9/20/2013 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+954,10030,8460,9/19/2014 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+955,10030,8460,9/10/2015 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Normal,Cover
+956,1843,8540,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Safe,Little,Lots,Organised,Medium,Press,Normal,Cover
+957,1843,8540,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+958,1843,8540,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+959,1843,8540,9/20/2013 0:00,Balanced,Little,Mixed,Free Form,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+960,1843,8540,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+961,1843,8540,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+962,73,9847,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,High,Double,Wide,Offside Trap
+963,73,9847,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+964,73,9847,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+965,73,9847,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+966,73,9847,9/19/2014 0:00,Balanced,Lots,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+967,73,9847,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+968,50,10167,2/22/2010 0:00,Slow,Little,Short,Free Form,Normal,Normal,Lots,Free Form,Medium,Contain,Wide,Offside Trap
+969,50,10167,2/22/2011 0:00,Balanced,Little,Short,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+970,50,10167,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+971,50,10167,9/20/2013 0:00,Balanced,Little,Short,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+972,50,10167,9/19/2014 0:00,Balanced,Lots,Short,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+973,50,10167,9/10/2015 0:00,Balanced,Normal,Short,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+974,1754,8426,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+975,1754,8426,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+976,1914,6413,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+977,1914,6413,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+978,1914,6413,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+979,100741,6547,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+980,200,9878,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+981,200,9878,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+982,200,9878,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+983,200,9878,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+984,200,9878,9/10/2015 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+985,111086,8028,2/22/2010 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Double,Normal,Cover
+986,111086,8028,9/20/2013 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+987,111086,8028,9/19/2014 0:00,Balanced,Normal,Long,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+988,111086,8028,9/10/2015 0:00,Balanced,Normal,Long,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+989,111087,8033,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+990,111087,8033,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+991,111087,8033,9/19/2014 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+992,111087,8033,9/10/2015 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+993,110746,8023,9/20/2013 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+994,110746,8023,9/19/2014 0:00,Balanced,Normal,Mixed,Free Form,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+995,110746,8023,9/10/2015 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+996,111429,8031,2/22/2010 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Double,Normal,Cover
+997,111429,8031,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Little,Normal,Organised,Medium,Press,Normal,Cover
+998,1570,2183,2/22/2010 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+999,1570,2183,2/22/2011 0:00,Slow,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1000,1570,2183,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Lots,Organised,Deep,Contain,Normal,Cover
+1001,1570,2183,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Contain,Normal,Cover
+1002,1790,8462,2/22/2010 0:00,Fast,Little,Long,Organised,Risky,Lots,Normal,Organised,Medium,Double,Normal,Cover
+1003,1790,8462,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1004,1790,8462,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1005,1790,8462,9/20/2013 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1006,1790,8462,9/19/2014 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1007,1790,8462,9/10/2015 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1008,247,8640,2/22/2010 0:00,Slow,Little,Short,Organised,Safe,Normal,Lots,Organised,Deep,Contain,Narrow,Cover
+1009,247,8640,2/22/2011 0:00,Balanced,Little,Short,Organised,Risky,Normal,Lots,Free Form,Medium,Press,Normal,Offside Trap
+1010,247,8640,2/22/2012 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Contain,Normal,Cover
+1011,247,8640,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1012,247,8640,9/19/2014 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1013,247,8640,9/10/2015 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+1014,15,10172,2/22/2010 0:00,Fast,Little,Long,Organised,Risky,Lots,Lots,Organised,High,Double,Wide,Cover
+1015,15,10172,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1016,15,10172,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1017,15,10172,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1018,15,10172,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1019,15,10172,9/10/2015 0:00,Slow,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1020,456,8696,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Risky,Lots,Normal,Free Form,Medium,Press,Normal,Cover
+1021,456,8696,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Risky,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1022,456,8696,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Wide,Cover
+1023,456,8696,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Wide,Cover
+1024,456,8696,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1025,86,8548,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Risky,Lots,Lots,Organised,Medium,Double,Wide,Cover
+1026,86,8548,2/22/2011 0:00,Balanced,Little,Short,Organised,Normal,Lots,Lots,Organised,Medium,Press,Normal,Cover
+1027,86,8548,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1028,86,8548,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1029,86,8548,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1030,86,8548,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1031,480,8370,2/22/2010 0:00,Balanced,Little,Short,Organised,Normal,Normal,Lots,Organised,Deep,Press,Normal,Offside Trap
+1032,480,8370,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+1033,480,8370,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1034,480,8370,9/20/2013 0:00,Balanced,Little,Mixed,Free Form,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1035,480,8370,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1036,480,8370,9/10/2015 0:00,Slow,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1037,1793,9798,2/22/2010 0:00,Fast,Little,Long,Organised,Risky,Lots,Lots,Organised,High,Press,Wide,Cover
+1038,1793,9798,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Contain,Wide,Cover
+1039,1793,9798,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1040,1793,9798,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1041,1793,9798,9/19/2014 0:00,Balanced,Little,Long,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1042,1793,9798,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1043,449,8603,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Safe,Normal,Normal,Free Form,Medium,Press,Normal,Offside Trap
+1044,449,8603,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Lots,Free Form,Medium,Press,Normal,Cover
+1045,449,8603,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1046,449,8603,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1047,449,8603,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1048,449,8603,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1049,243,8633,2/22/2010 0:00,Balanced,Little,Short,Free Form,Risky,Normal,Lots,Free Form,Medium,Press,Normal,Offside Trap
+1050,243,8633,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Risky,Normal,Lots,Free Form,High,Press,Normal,Cover
+1051,243,8633,2/22/2012 0:00,Balanced,Little,Mixed,Free Form,Risky,Normal,Lots,Free Form,Medium,Press,Wide,Cover
+1052,243,8633,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Lots,Free Form,Medium,Press,Normal,Cover
+1053,243,8633,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Risky,Normal,Lots,Free Form,Medium,Press,Normal,Cover
+1054,243,8633,9/10/2015 0:00,Balanced,Normal,Mixed,Free Form,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+1055,457,8560,2/22/2010 0:00,Balanced,Little,Short,Free Form,Normal,Normal,Lots,Organised,Medium,Contain,Normal,Offside Trap
+1056,457,8560,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1057,457,8560,2/22/2012 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+1058,457,8560,9/20/2013 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+1059,457,8560,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1060,457,8560,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1061,571,8479,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1062,571,8479,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1063,571,8479,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Little,Organised,Medium,Press,Normal,Cover
+1064,571,8479,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+1065,571,8479,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1066,571,8479,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Safe,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1067,203,8690,2/22/2010 0:00,Balanced,Little,Short,Organised,Safe,Little,Lots,Organised,Medium,Press,Normal,Cover
+1068,203,8690,2/22/2011 0:00,Balanced,Little,Short,Organised,Safe,Little,Normal,Organised,Medium,Press,Normal,Cover
+1069,203,8690,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1070,203,8690,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1071,203,8690,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1072,379,9837,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1073,379,9837,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+1074,379,9837,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+1075,379,9837,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+1076,379,9837,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+1077,74,9851,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,High,Double,Wide,Cover
+1078,74,9851,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1079,74,9851,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1080,74,9851,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1081,74,9851,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1082,74,9851,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1083,744,7841,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Narrow,Offside Trap
+1084,744,7841,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+1085,744,7841,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1086,744,7841,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1087,744,7841,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1088,744,7841,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1089,1905,10219,2/22/2010 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1090,1905,10219,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1091,1905,10219,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Normal,Cover
+1092,1905,10219,9/19/2014 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Normal,Cover
+1093,1838,8551,2/22/2010 0:00,Balanced,Little,Short,Organised,Safe,Little,Normal,Organised,Medium,Press,Normal,Offside Trap
+1094,1838,8551,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+1095,1838,8551,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1096,1838,8551,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+1097,1838,8551,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1098,1902,9803,2/22/2010 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Deep,Contain,Narrow,Cover
+1099,1902,9803,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Safe,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+1100,1902,9803,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1101,1902,9803,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1102,1902,9803,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1103,546,9999,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Double,Wide,Cover
+1104,52,8686,2/22/2010 0:00,Fast,Little,Short,Free Form,Normal,Normal,Lots,Free Form,Medium,Contain,Wide,Offside Trap
+1105,52,8686,2/22/2011 0:00,Balanced,Little,Short,Organised,Risky,Normal,Normal,Free Form,Medium,Press,Normal,Offside Trap
+1106,52,8686,2/22/2012 0:00,Balanced,Little,Mixed,Free Form,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Offside Trap
+1107,52,8686,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Risky,Lots,Normal,Free Form,Medium,Press,Normal,Offside Trap
+1108,52,8686,9/19/2014 0:00,Fast,Normal,Mixed,Organised,Risky,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+1109,52,8686,9/10/2015 0:00,Fast,Little,Mixed,Organised,Risky,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+1110,631,8649,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1111,631,8649,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1112,631,8649,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1113,874,1601,2/22/2010 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+1114,874,1601,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Risky,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1115,874,1601,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1116,874,1601,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1117,874,1601,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1118,874,1601,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1119,1819,9853,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Narrow,Offside Trap
+1120,1819,9853,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1121,1819,9853,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1122,1819,9853,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1123,1819,9853,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1124,1819,9853,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1125,1837,9882,2/22/2010 0:00,Balanced,Little,Short,Organised,Safe,Little,Normal,Free Form,Medium,Contain,Normal,Offside Trap
+1126,1837,9882,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1127,1837,9882,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1128,1837,9882,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+1129,1837,9882,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+1130,1837,9882,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+1131,111974,7943,2/22/2010 0:00,Slow,Little,Short,Organised,Safe,Little,Normal,Organised,Deep,Contain,Narrow,Cover
+1132,111974,7943,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Contain,Narrow,Cover
+1133,111974,7943,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1134,111974,7943,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+1135,111974,7943,9/19/2014 0:00,Balanced,Lots,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+1136,111974,7943,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1137,58,7794,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,High,Double,Wide,Offside Trap
+1138,58,7794,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1139,58,7794,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1140,58,7794,9/19/2014 0:00,Fast,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1141,58,7794,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1142,1913,10228,2/22/2010 0:00,Balanced,Little,Short,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Narrow,Cover
+1143,1913,10228,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1144,1913,10228,2/22/2012 0:00,Fast,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1145,1913,10228,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1146,1913,10228,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1147,1913,10228,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1148,34,10189,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Lots,Organised,High,Press,Wide,Cover
+1149,34,10189,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Double,Normal,Cover
+1150,34,10189,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1151,34,10189,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1152,34,10189,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1153,34,10189,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1154,324,9777,2/22/2010 0:00,Slow,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1155,324,9777,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1156,324,9777,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1157,481,8302,2/22/2010 0:00,Slow,Little,Short,Free Form,Risky,Normal,Lots,Free Form,Medium,Double,Normal,Offside Trap
+1158,481,8302,2/22/2011 0:00,Fast,Little,Mixed,Free Form,Risky,Lots,Lots,Free Form,Medium,Press,Wide,Cover
+1159,481,8302,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1160,481,8302,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1161,481,8302,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1162,481,8302,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1163,110770,10179,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+1164,110770,10179,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1165,110770,10179,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1166,110770,10179,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1167,110770,10179,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1168,110770,10179,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1169,111092,8025,2/22/2010 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Double,Normal,Cover
+1170,111092,8025,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1171,111092,8025,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Risky,Little,Lots,Organised,Deep,Contain,Normal,Cover
+1172,111092,8025,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Risky,Little,Lots,Organised,Deep,Contain,Normal,Cover
+1173,111092,8025,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+1174,111092,8025,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1175,226,9874,2/22/2010 0:00,Balanced,Little,Long,Organised,Normal,Normal,Normal,Organised,Medium,Contain,Normal,Cover
+1176,226,9874,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1177,226,9874,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1178,226,9874,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1179,226,9874,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1180,226,9874,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1181,17,8466,2/22/2010 0:00,Fast,Little,Mixed,Organised,Risky,Lots,Normal,Organised,High,Double,Wide,Cover
+1182,17,8466,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1183,17,8466,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1184,17,8466,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+1185,17,8466,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+1186,17,8466,9/10/2015 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+1187,100646,8614,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Safe,Normal,Normal,Organised,Deep,Contain,Narrow,Cover
+1188,670,9986,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,High,Double,Wide,Cover
+1189,670,9986,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Little,Normal,Organised,Medium,Press,Normal,Cover
+1190,670,9986,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1191,670,9986,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1192,670,9986,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1193,237,9768,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Free Form,Deep,Contain,Narrow,Offside Trap
+1194,237,9768,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1195,237,9768,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Risky,Lots,Lots,Organised,Medium,Press,Normal,Cover
+1196,237,9768,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Risky,Lots,Normal,Free Form,Medium,Press,Normal,Cover
+1197,237,9768,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1198,237,9768,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1199,459,9869,2/22/2010 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Lots,Organised,High,Double,Normal,Cover
+1200,459,9869,2/22/2011 0:00,Fast,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1201,459,9869,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1202,459,9869,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1203,459,9869,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1204,459,9869,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1205,48,9875,2/22/2010 0:00,Fast,Little,Short,Free Form,Safe,Normal,Lots,Free Form,Medium,Double,Normal,Cover
+1206,48,9875,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Normal,Normal,Normal,Organised,Medium,Double,Normal,Cover
+1207,48,9875,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1208,48,9875,9/20/2013 0:00,Fast,Little,Mixed,Organised,Risky,Lots,Normal,Organised,Medium,Press,Normal,Offside Trap
+1209,48,9875,9/19/2014 0:00,Fast,Lots,Mixed,Organised,Risky,Normal,Lots,Organised,Medium,Press,Normal,Cover
+1210,48,9875,9/10/2015 0:00,Balanced,Lots,Mixed,Organised,Risky,Normal,Lots,Organised,Medium,Press,Normal,Offside Trap
+1211,898,10190,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1212,898,10190,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1213,898,10190,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1214,898,10190,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1215,898,10190,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1216,100805,9800,2/22/2010 0:00,Fast,Little,Long,Organised,Risky,Lots,Lots,Organised,Medium,Double,Wide,Cover
+1217,100805,9800,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1218,100805,9800,2/22/2012 0:00,Balanced,Little,Long,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1219,100805,9800,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1220,100805,9800,9/19/2014 0:00,Balanced,Normal,Long,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1221,100805,9800,9/10/2015 0:00,Balanced,Normal,Short,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1222,110329,8152,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Lots,Organised,Medium,Double,Normal,Cover
+1223,110329,8152,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1224,110329,8152,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1225,110329,8152,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1226,110329,8152,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1227,110329,8152,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1228,100804,8467,2/22/2010 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Double,Narrow,Cover
+1229,100804,8467,2/22/2011 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+1230,100804,8467,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1231,100804,8467,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1232,100804,8467,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1233,100804,8467,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1234,680,9997,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1235,680,9997,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1236,680,9997,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+1237,232,9985,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,High,Double,Normal,Cover
+1238,232,9985,2/22/2011 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+1239,232,9985,2/22/2012 0:00,Fast,Little,Long,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1240,232,9985,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1241,232,9985,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1242,232,9985,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1243,1806,10194,2/22/2010 0:00,Balanced,Little,Long,Organised,Risky,Lots,Normal,Organised,Medium,Double,Normal,Cover
+1244,1806,10194,2/22/2011 0:00,Balanced,Little,Long,Organised,Safe,Lots,Normal,Organised,Deep,Press,Normal,Cover
+1245,1806,10194,2/22/2012 0:00,Fast,Little,Long,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1246,1806,10194,9/20/2013 0:00,Fast,Little,Long,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+1247,1806,10194,9/19/2014 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1248,1806,10194,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1249,106,8472,2/22/2010 0:00,Balanced,Little,Long,Organised,Risky,Lots,Normal,Organised,Medium,Double,Normal,Cover
+1250,106,8472,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1251,106,8472,2/22/2012 0:00,Fast,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1252,106,8472,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Little,Lots,Organised,Medium,Press,Normal,Cover
+1253,106,8472,9/19/2014 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1254,106,8472,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1255,1960,10003,2/22/2010 0:00,Balanced,Little,Long,Organised,Risky,Lots,Lots,Organised,High,Double,Wide,Cover
+1256,1960,10003,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1257,1960,10003,2/22/2012 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+1258,1960,10003,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+1259,1960,10003,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+1260,1960,10003,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Free Form,Deep,Press,Normal,Cover
+1261,260,9867,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Little,Normal,Organised,Medium,Contain,Normal,Cover
+1262,260,9867,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Wide,Cover
+1263,260,9867,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1264,260,9867,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+1265,1715,10191,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+1266,1715,10191,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Risky,Little,Normal,Organised,Medium,Press,Normal,Cover
+1267,1715,10191,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Risky,Little,Normal,Organised,Medium,Press,Normal,Cover
+1268,1715,10191,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1269,1715,10191,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1270,54,9804,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Little,Lots,Free Form,Medium,Press,Normal,Cover
+1271,54,9804,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1272,54,9804,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1273,54,9804,9/20/2013 0:00,Fast,Little,Mixed,Organised,Normal,Lots,Normal,Free Form,Medium,Press,Normal,Cover
+1274,54,9804,9/19/2014 0:00,Fast,Lots,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1275,54,9804,9/10/2015 0:00,Fast,Lots,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1276,18,8586,2/22/2010 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1277,18,8586,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Risky,Lots,Lots,Organised,Deep,Press,Normal,Cover
+1278,18,8586,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1279,18,8586,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+1280,18,8586,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1281,18,8586,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1282,1809,9941,2/22/2010 0:00,Balanced,Little,Long,Organised,Normal,Lots,Normal,Organised,Deep,Press,Narrow,Cover
+1283,1809,9941,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1284,1809,9941,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1285,1809,9941,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1286,1809,9941,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1287,1809,9941,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1288,294,10242,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1289,294,10242,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1290,294,10242,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1291,294,10242,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1292,294,10242,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1293,1908,8611,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Narrow,Cover
+1294,1908,8611,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+1295,1908,8611,2/22/2012 0:00,Slow,Little,Short,Organised,Normal,Lots,Normal,Organised,Medium,Double,Wide,Cover
+1296,1908,8611,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+1297,1908,8611,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1298,1908,8611,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1299,55,8600,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Safe,Normal,Lots,Organised,Medium,Contain,Normal,Offside Trap
+1300,55,8600,2/22/2011 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+1301,55,8600,2/22/2012 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1302,55,8600,9/20/2013 0:00,Fast,Little,Mixed,Free Form,Risky,Lots,Normal,Free Form,Medium,Press,Normal,Cover
+1303,55,8600,9/19/2014 0:00,Fast,Lots,Mixed,Organised,Risky,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1304,55,8600,9/10/2015 0:00,Fast,Normal,Mixed,Organised,Risky,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1305,1895,9771,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1306,1895,9771,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1307,1895,9771,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1308,461,10267,2/22/2010 0:00,Slow,Little,Short,Free Form,Normal,Normal,Lots,Organised,Medium,Press,Normal,Offside Trap
+1309,461,10267,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+1310,461,10267,2/22/2012 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1311,461,10267,9/20/2013 0:00,Slow,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1312,461,10267,9/19/2014 0:00,Slow,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1313,461,10267,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1314,110456,9873,2/22/2010 0:00,Balanced,Little,Long,Organised,Normal,Normal,Normal,Organised,Deep,Press,Narrow,Cover
+1315,110456,9873,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1316,110456,9873,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1317,110456,9873,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1318,110456,9873,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1319,110456,9873,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1320,462,10281,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Little,Normal,Organised,Deep,Press,Narrow,Cover
+1321,462,10281,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1322,462,10281,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1323,462,10281,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1324,462,10281,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1325,462,10281,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1326,206,9876,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1327,206,9876,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1328,206,9876,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+1329,206,9876,9/10/2015 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1330,36,10269,2/22/2010 0:00,Fast,Little,Short,Organised,Normal,Lots,Lots,Organised,Medium,Press,Normal,Cover
+1331,36,10269,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1332,36,10269,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1333,36,10269,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1334,36,10269,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1335,36,10269,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Narrow,Cover
+1336,483,10205,2/22/2010 0:00,Balanced,Little,Short,Free Form,Normal,Normal,Lots,Free Form,Medium,Contain,Wide,Offside Trap
+1337,483,10205,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Normal,Normal,Lots,Free Form,Medium,Press,Normal,Cover
+1338,483,10205,2/22/2012 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1339,483,10205,9/20/2013 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1340,483,10205,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1341,483,10205,9/10/2015 0:00,Balanced,Normal,Mixed,Free Form,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+1342,1909,8277,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Narrow,Cover
+1343,1909,8277,2/22/2011 0:00,Slow,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1344,1909,8277,2/22/2012 0:00,Balanced,Little,Short,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1345,1909,8277,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1346,1909,8277,9/19/2014 0:00,Balanced,Normal,Short,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1347,1909,8277,9/10/2015 0:00,Balanced,Normal,Mixed,Free Form,Normal,Normal,Lots,Free Form,Medium,Press,Normal,Cover
+1348,1887,7844,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Narrow,Offside Trap
+1349,1887,7844,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Offside Trap
+1350,1887,7844,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Wide,Cover
+1351,1887,7844,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1352,1887,7844,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1353,1887,7844,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1354,665,10238,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Narrow,Cover
+1355,665,10238,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1356,665,10238,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1357,665,10238,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1358,665,10238,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1359,665,10238,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1360,100651,9839,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1361,100651,9839,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1362,100651,9839,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1363,100651,9839,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+1364,110913,8475,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Little,Normal,Free Form,Deep,Press,Normal,Cover
+1365,110913,8475,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Safe,Little,Normal,Organised,Deep,Press,Normal,Cover
+1366,110913,8475,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Normal,Cover
+1367,1795,9817,2/22/2010 0:00,Fast,Little,Long,Organised,Risky,Lots,Normal,Organised,High,Double,Normal,Cover
+1368,1795,9817,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Risky,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1369,1795,9817,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1370,1795,9817,9/20/2013 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+1371,1795,9817,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+1372,1795,9817,9/10/2015 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+1373,38,8697,2/22/2010 0:00,Fast,Little,Mixed,Organised,Risky,Normal,Lots,Organised,High,Press,Wide,Cover
+1374,38,8697,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+1375,38,8697,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1376,38,8697,9/20/2013 0:00,Fast,Little,Short,Organised,Risky,Lots,Lots,Organised,Medium,Press,Normal,Cover
+1377,38,8697,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1378,38,8697,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Wide,Cover
+1379,109,8659,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Risky,Lots,Normal,Organised,High,Double,Wide,Cover
+1380,109,8659,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1381,109,8659,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1382,109,8659,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Contain,Normal,Cover
+1383,109,8659,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1384,109,8659,9/10/2015 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1385,19,8654,2/22/2010 0:00,Balanced,Little,Short,Organised,Safe,Lots,Normal,Organised,Deep,Double,Narrow,Cover
+1386,19,8654,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Safe,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1387,19,8654,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+1388,19,8654,9/20/2013 0:00,Fast,Little,Long,Organised,Normal,Lots,Little,Organised,Deep,Press,Normal,Cover
+1389,19,8654,9/19/2014 0:00,Fast,Normal,Long,Organised,Risky,Lots,Little,Organised,Deep,Press,Normal,Cover
+1390,19,8654,9/10/2015 0:00,Fast,Normal,Mixed,Organised,Risky,Lots,Little,Organised,Deep,Press,Normal,Cover
+1391,681,10001,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,High,Double,Wide,Cover
+1392,681,10001,2/22/2011 0:00,Balanced,Little,Mixed,Free Form,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+1393,681,10001,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+1394,681,10001,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+1395,301,8024,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1396,301,8024,2/22/2012 0:00,Balanced,Little,Long,Organised,Risky,Normal,Normal,Organised,Deep,Contain,Normal,Cover
+1397,301,8024,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Deep,Press,Normal,Cover
+1398,301,8024,9/19/2014 0:00,Balanced,Normal,Long,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1399,1917,8528,2/22/2010 0:00,Fast,Little,Long,Organised,Risky,Lots,Normal,Organised,Medium,Double,Normal,Cover
+1400,1917,8528,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1401,1917,8528,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1402,1917,8528,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Free Form,Medium,Press,Normal,Cover
+1403,1917,8528,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1404,1917,8528,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1405,1907,8525,2/22/2010 0:00,Balanced,Little,Short,Organised,Safe,Normal,Normal,Organised,Deep,Contain,Narrow,Cover
+1406,1907,8525,2/22/2011 0:00,Fast,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Deep,Press,Normal,Cover
+1407,1907,8525,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1408,1907,8525,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1409,1873,10265,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,High,Double,Normal,Cover
+1410,1873,10265,2/22/2011 0:00,Fast,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+1411,1873,10265,2/22/2012 0:00,Slow,Little,Short,Organised,Safe,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1412,1873,10265,9/20/2013 0:00,Slow,Little,Short,Organised,Safe,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1413,1873,10265,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1414,1873,10265,9/10/2015 0:00,Slow,Normal,Mixed,Free Form,Safe,Normal,Little,Free Form,Medium,Press,Normal,Cover
+1415,175,8721,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+1416,175,8721,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1417,175,8721,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1418,175,8721,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Risky,Lots,Lots,Organised,Medium,Press,Normal,Cover
+1419,175,8721,9/19/2014 0:00,Balanced,Lots,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1420,175,8721,9/10/2015 0:00,Fast,Normal,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1421,110,8602,2/22/2010 0:00,Fast,Little,Long,Organised,Risky,Lots,Lots,Organised,High,Double,Wide,Cover
+1422,110,8602,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1423,110,8602,2/22/2012 0:00,Fast,Little,Long,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1424,110,8602,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1425,110,8602,9/19/2014 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1426,110,8602,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1427,435,7955,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1428,435,7955,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1429,435,7955,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Contain,Normal,Cover
+1430,1742,9868,2/22/2010 0:00,Slow,Little,Short,Organised,Normal,Normal,Lots,Organised,Medium,Press,Normal,Cover
+1431,1742,9868,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Wide,Cover
+1432,1742,9868,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1433,1742,9868,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1434,900,10192,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Offside Trap
+1435,900,10192,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Lots,Lots,Organised,Medium,Press,Normal,Cover
+1436,900,10192,2/22/2012 0:00,Balanced,Little,Long,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1437,900,10192,9/20/2013 0:00,Balanced,Little,Long,Organised,Normal,Lots,Normal,Organised,Medium,Press,Normal,Cover
+1438,900,10192,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1439,900,10192,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1440,110749,8021,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Safe,Normal,Lots,Organised,High,Double,Wide,Cover
+1441,110749,8021,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1442,110749,8021,2/22/2012 0:00,Slow,Little,Mixed,Organised,Risky,Normal,Lots,Organised,Medium,Press,Normal,Cover
+1443,110749,8021,9/20/2013 0:00,Slow,Little,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1444,110749,8021,9/19/2014 0:00,Slow,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1445,244,8394,2/22/2010 0:00,Slow,Little,Short,Free Form,Normal,Normal,Lots,Organised,Medium,Contain,Normal,Offside Trap
+1446,244,8394,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1447,244,8394,2/22/2012 0:00,Balanced,Little,Short,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1448,244,8394,9/20/2013 0:00,Balanced,Little,Short,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1449,244,8394,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1450,244,8394,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1451,112512,8027,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Risky,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1452,112512,8027,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1453,15005,10000,2/22/2010 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,High,Press,Wide,Cover
+1454,15005,10000,2/22/2011 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1455,15005,10000,2/22/2012 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Normal,Organised,Medium,Press,Normal,Cover
+1456,15005,10000,9/20/2013 0:00,Balanced,Little,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+1457,15005,10000,9/19/2014 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
+1458,15005,10000,9/10/2015 0:00,Balanced,Normal,Mixed,Organised,Normal,Normal,Little,Organised,Medium,Press,Normal,Cover
